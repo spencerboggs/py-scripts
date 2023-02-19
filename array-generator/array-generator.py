@@ -1,4 +1,3 @@
-import math
 while True:
     result = float(input("Starting value: "))
     step = float(input("Step size: "))
